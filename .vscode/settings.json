@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "AUTOINCREMENT",
+    "checkpw",
+    "gensalt",
+    "hashpw",
+    "localtime",
+    "signup",
+    "sqflite",
+    "strftime"
+  ]
+}
